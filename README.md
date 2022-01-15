@@ -1,5 +1,5 @@
 # Istio demo
-- My blog: [Service Mesh](https://viblo.asia/p/tim-hieu-ve-service-mesh-phan-tiep-theo-ORNZqnJrl0n)
+- My blog: [Openhu](https://openhu.wordpress.com/)
 ## How to setup
 - Install [Istio](https://istio.io/latest/docs/setup/install/)
 ```yaml
