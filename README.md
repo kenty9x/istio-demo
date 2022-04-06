@@ -1,5 +1,6 @@
 # Istio demo
 - My blog: [Openhu](https://openhu.wordpress.com/)
+- Istio creates gateway and virtualservice in desired namespace. We can connect externally to cluster pod via istio service in istio-system namespace.
 ## How to setup
 - Install [Istio](https://istio.io/latest/docs/setup/install/)
 ```yaml
